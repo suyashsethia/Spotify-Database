@@ -1,0 +1,25 @@
+1 Lana Del Rey
+2 5 soft rock
+3 10
+4 20
+4 90
+5 70
+6 l
+7 Master Of Puppets 
+8 5 
+9
+10 2009-01-01 2022-09-09
+11 goth69
+20 suyu suyashh 20
+// sql server select * from users ;
+21 goth69 Midnight 
+//select * from listens ; 
+22 My_songs suyu unlisted 
+23 My_songs goth69 Orion 
+30 
+31 honeymoon 
+32 Metallica 
+40 
+41 
+42
+43 goth69 
